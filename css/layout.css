@@ -62,10 +62,10 @@
   margin-right: 0%;
 }
 
-/*[class*="col-"]{
+[class*="col-"]{
     margin-left: 0%
   }
 
 .first{
   margin-left: 0%
-}*/
+}
